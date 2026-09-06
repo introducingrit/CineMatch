@@ -44,6 +44,8 @@ A logged-in member selects a star rating (1–5, e.g. “★★★★☆ (4 – 
 **8. Registration & Login**
    
 <img width="610" height="602" alt="Screenshot 2026-09-05 181037" src="https://github.com/user-attachments/assets/2aa4b827-bd6f-4508-ad14-378b4865d02b" />
+
 Returning members authenticate with their registered email and password via the “Sign In” form.
 <img width="606" height="705" alt="Screenshot 2026-09-05 181112" src="https://github.com/user-attachments/assets/3e640645-f9ac-4ee3-aa3f-61a066629039" />
+
 New visitors register with Full Name, Email Address, and Password, then are routed to “Register & Set Preferences” (the taste questionnaire).
