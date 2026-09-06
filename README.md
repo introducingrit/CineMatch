@@ -1,5 +1,6 @@
 # **CineMatch**
 A movie recommendation application 
+
 **1. Public Landing Page**
 
 The homepage introduces CineMatch with a hero banner and a clear call to action (“Get Started Free” / “Log In”), summarizing the core value proposition — matching mood, genre, and language preferences against official IMDb scores across 150+ titles.
