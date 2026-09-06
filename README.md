@@ -29,7 +29,15 @@ The member selects one or more preferred genres (e.g. Comedy, Animation, Romance
 
 <img width="1826" height="967" alt="Screenshot 2026-09-05 173938" src="https://github.com/user-attachments/assets/421b0646-84b7-4af1-bdf9-682b23d5d6c7" />
 Once a taste profile is active, the Explore page banner confirms the currently applied preferences (“Feel-good vibe in English, Hindi, Korean, Japanese”) and offers an “Edit Questionnaire” shortcut. Below it, the “Picked For You” grid surfaces titles matching that profile (e.g. Barbie, Weathering With You, La La Land, The Grand Budapest Hotel), each tagged with language, mood, and IMDb rating — the direct output of the recommendation engine .
+
+6. Movie Detail Page
+   
 <img width="1832" height="725" alt="Screenshot 2026-09-05 173820" src="https://github.com/user-attachments/assets/1fd99c67-6467-4a9b-bac5-341a800eb107" />
+The detail page displays the poster, director, genre list, official IMDb rating (8.7), the CineMatch community average (4.5 / 5 from 2 audience reviews), and a synopsis, before offering a “Back to Catalog” navigation control.
+
+7. Rating & Review Submission
+   
 <img width="1917" height="968" alt="Screenshot 2026-09-05 173554" src="https://github.com/user-attachments/assets/e8e40c8d-8c45-4273-9f66-e50a7e24386f" />
+A logged-in member selects a star rating (1–5, e.g. “★★★★☆ (4 – Great)”) from a dropdown and may add an optional written review, then submits via “Submit Review.” Existing audience feedback is listed below with the reviewer's name, star rating, review text, and submission date.
 <img width="610" height="602" alt="Screenshot 2026-09-05 181037" src="https://github.com/user-attachments/assets/2aa4b827-bd6f-4508-ad14-378b4865d02b" />
 <img width="606" height="705" alt="Screenshot 2026-09-05 181112" src="https://github.com/user-attachments/assets/3e640645-f9ac-4ee3-aa3f-61a066629039" />
