@@ -1,8 +1,14 @@
 # CineMatch
 A movie recommendation application 
+1. Public Landing Page
+The homepage introduces CineMatch with a hero banner and a clear call to action (“Get Started Free” / “Log In”), summarizing the core value proposition — matching mood, genre, and language preferences against official IMDb scores across 150+ titles.
 <img width="1837" height="802" alt="Screenshot 2026-09-05 180957" src="https://github.com/user-attachments/assets/1dd8b3bc-dc99-4569-9e71-eadbec7e5453" />
+The persistent top navigation (Home, About, Services, Contact, Catalog, Login, Register) is present across all guest-facing pages.
+2. About & Platform Information
 <img width="1522" height="636" alt="Screenshot 2026-09-05 181015" src="https://github.com/user-attachments/assets/1d059997-c864-4ff8-beb4-04e533d6de67" />
+Describes CineMatch as a hybrid recommendation system built on the XAMPP stack, analyzing multi-vector user profiles against a normalized relational catalog of 150+ international and Indian cinema releases. The footer surfaces quick links and contact details.
 <img width="1821" height="946" alt="Screenshot 2026-09-05 180936" src="https://github.com/user-attachments/assets/c12a0420-4667-4502-ab7f-d139b1b79635" />
+Four feature cards summarize the product's differentiators: the Taste Questionnaire, Official IMDb Integration, the Adaptive Feedback Loop (star ratings tuning the recommender), and Personalized Watchlists.
 <img width="1837" height="962" alt="Screenshot 2026-09-05 173750" src="https://github.com/user-attachments/assets/d1609ed2-5116-4d25-9a03-5da7532ececc" />
 <img width="1115" height="762" alt="Screenshot 2026-09-05 174025" src="https://github.com/user-attachments/assets/a2d5134d-d6b9-4d0e-94e6-850df060e221" />
 <img width="846" height="843" alt="Screenshot 2026-09-05 173906" src="https://github.com/user-attachments/assets/6df16b3b-639f-4ff1-a98c-342811f92db2" />
